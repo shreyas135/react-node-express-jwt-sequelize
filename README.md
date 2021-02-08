@@ -1,1 +1,1 @@
-# react-node-express-jwt-sequelize
+# React NodeJs Express JWT Sequelize
